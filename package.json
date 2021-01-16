@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "proyecto-ecommerce",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVLVirginiaLombardi/Prueba.git"
+  },
+  "author": "Virginia Lombardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVLVirginiaLombardi/Prueba/issues"
+  },
+  "homepage": "https://github.com/LVLVirginiaLombardi/Prueba#readme"
+}
