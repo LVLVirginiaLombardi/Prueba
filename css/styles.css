@@ -1,0 +1,97 @@
+.jumbotron {
+    background-color: #6699ff;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
+  
+  .btn {
+    background-color: #6699ff;
+    border-color: #6699ff;
+  }
+  
+  .card-hotel {
+    flex: 1 200px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+  
+  .btn-reserva {
+    with: 100%;
+    border-radius: 0px;
+    color: white;
+    border-color: #6699ff;
+  }
+  
+  .fab {
+    color: white;
+  }
+  
+  .footer-address-icon {
+    padding-right: 10px;
+  }
+  
+
+  
+  address {
+    color: white;
+  }
+  
+  .card-header {
+    color: white;
+  }
+  
+  .carousel-item {
+    max-height: 620px;
+  }
+  
+  .carousel-caption {
+    font-weight: bolder;
+    color: cornsilk;
+  }
+  
+  .listaHoteles .card {
+    width: 330px;
+    height: auto;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    color: #666;
+  }
+  
+  .listaHoteles .card .card-title {
+    color: #075f92;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .listaHoteles .card .btn {
+    width: 40;
+  }
+  
+  .listaHoteles .card-img-top {
+    height: 220px;
+  }
+  
+  .hotel {
+    height: 100px;
+    min-height: 100px;
+    overflow: hidden;
+  }
+  
+  .btn-inicio {
+    width: 100;
+    background-color: #6699ff;
+    display: flex;
+    justify-content: center;
+    border-color: #6699ff;
+  }
+  
+  .tab-content {
+    padding-top: 20px;
+  }
+  
+  .nav-link {
+    color: #6699ff;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
